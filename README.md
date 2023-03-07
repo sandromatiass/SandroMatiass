@@ -1,6 +1,6 @@
 ### Hello, I'm Sandro Matias, a front end student, and here's some information about my evolution. 👋
 
-- 💻 I'm currently a computer technician, I have been working in the technology field for 10 years and I am specializing as a front end.
+- 💻 I'm currently a computer technician, I have been working in the technology field for 10 years, and I am specializing as a front end.
 - 📚 At the moment I'm studying to be a front end specialist, getting knowledge with HTML, CSS, JAVASCRIPT AND GITHUB.
 
 <div >
@@ -8,8 +8,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SandroMatiass&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandroMatiass&layout=compact&langs_count=16&theme=github_dark"/>
 </div>
-
-Practice leads to evolution. 😎
 
 
 <div  align="center"> 
