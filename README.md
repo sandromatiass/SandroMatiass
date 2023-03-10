@@ -1,6 +1,6 @@
 ### Hello, I'm Sandro Matias, a front end student, and here's some information about my evolution. 👋
 
-- 💻 I'm currently a computer technician, I have been working in the technology field for 10 years, and I am specializing as a front end.
+- 💻 I'm currently a computer technician, I have been working in the technology field for 10 years, and I am specializing as a FrontEnd.
 - 📚 At the moment I'm studying to be a front end specialist, getting knowledge with HTML, CSS, JAVASCRIPT AND GITHUB.
 
 <div >
